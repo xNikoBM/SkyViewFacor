@@ -164,7 +164,7 @@ Este proyecto puede utilizarse en:
 # Integrantes
 
 - Niko Alejandro Bonilla Martinez
-- Juan Pablo Hurtado Agudelo
+- David Alejandro Perez
 
 ---
 
